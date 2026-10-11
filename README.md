@@ -7,8 +7,8 @@ Three years of MPPCB water tests (2023–25), lined up against the CPCB bathing 
 | | |
 |---|---|
 | **Track** | 2: Visarjan Ghat Watch (Claude Impact Lab × Cerebras, Bhopal, 11 Oct 2026) |
-| **Team** | Fable 5.1 |
-| **Members** | Fable 5.1 (@Yu-369) |
+| **Team** | Lohit Sai Ganta |
+| **Members** | Lohit Sai Ganta (@Yu-369) |
 | **The one user** | The Bhopal Municipal Corporation officer who plans Durga visarjan at the ghats and decides where to send extra cleaning crews, aeration and water-testing units. Today that decision rests on memory, because the results sit in 90–120 page PDFs. |
 
 ![Dashboard](docs/dashboard.png)
