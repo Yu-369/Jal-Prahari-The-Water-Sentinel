@@ -1,0 +1,21 @@
+{
+  "name": "jal-prahari",
+  "version": "1.0.0",
+  "description": "Jal Prahari (जल प्रहरी) - water quality risk dashboard for Bhopal's visarjan ghats, built for the BMC officer planning Durga Visarjan 2026.",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.9"
+  },
+  "scripts": {
+    "start": "node --env-file-if-exists=.env server.js",
+    "dev": "node --watch --env-file-if-exists=.env server.js",
+    "test": "node --test \"test/*.test.js\""
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.133.0",
+    "express": "^5.3.0",
+    "leaflet": "^1.9.4"
+  }
+}

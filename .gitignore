@@ -1,0 +1,9 @@
+node_modules/
+.env
+# Local data written by "Upload new report" (the data pack file stays tracked)
+data/readings_current.csv
+data/readings_previous.csv
+data/*.tmp
+*.log
+.DS_Store
+Thumbs.db
